@@ -13,7 +13,8 @@ def get_todos(filepath = FILEPATH):
 def write_todos(todos_l, filepath = FILEPATH):
     """Write a list of todos items to a text file"""
     with open(filepath,"w") as file:
-        file.writelines(todos_l)
+        #file.writelines(todos_l)
+        file.writelines([str(item) for item in todos_l])
 
 if __name__ == "__main__":
     print("hi")
