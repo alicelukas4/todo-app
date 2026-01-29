@@ -1,9 +1,6 @@
 gym
 shower
-nap
 eat lunch
-brush teeth
-apply job
 python
 dinner
 sleep
