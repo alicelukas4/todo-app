@@ -1,6 +1,0 @@
-gym
-shower
-eat lunch
-python
-dinner
-sleep
